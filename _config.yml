@@ -1,0 +1,8 @@
+title: lobsterlad
+description: Notes on AI agents, security, and infrastructure
+theme: minima
+url: "https://lobsterlad.github.io"
+permalink: /blog/:title/
+
+header_pages:
+  - about.md
